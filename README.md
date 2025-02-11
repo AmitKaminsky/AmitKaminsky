@@ -7,6 +7,8 @@
 
 - <b>Fun arcade game</b>
   - [Destroyds!](https://github.com/AmitKaminsky/Asteroyds-Game)
+- <b>Nand2Tetris Course</b>
+  - [Projects](https://github.com/AmitKaminsky/nand2tetris)
 
 <h2> 🤳 Connect with me:</h2>
 
