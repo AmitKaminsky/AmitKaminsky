@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amit! </h1> <h3> <a href="https://www.linkedin.com/in/amit-kaminsky/">B.Sc. Student</a> </h3>
+<h1>Hi, I'm Amit! </h1> <h3> <a href="https://www.linkedin.com/in/amit-kaminsky/">B.Sc. Student, Dean's List</a> </h3>
 
 - 🌱 I’m currently a second-year student pursuing Computer Science & Entrepreneurship at Reichman University.
 - 🔭 I’m working on a personal project which supports my content creating journey together with my amazing partner, Or Toledano.  
